@@ -35,19 +35,22 @@ This repository contains a reproducible three-stage pipeline:
 
 ### [ 04. SAMPLE OUTPUT: HIGH-PRIORITY INTERVENTION ]
 The engine identifies the "Critical Intersection": **High Revenue + Low Health.**
+*Total Analyzed: 100 Accounts* | *Total Identified Risk: **$308,121.00***
 
 | Customer | Tier | MRR | Health Score | Strategic Action |
 | :--- | :--- | :--- | :--- | :--- |
-| **Company 42** | Enterprise | **$14,500** | 32 / 100 | **Exec-Level Intervention** |
-| **Company 12** | Enterprise | **$12,000** | 41 / 100 | CSM Wellness Check |
-| **Company 88** | Mid-Market | $8,500 | 28 / 100 | Technical Product Audit |
+| **Company 33** | Mid-Market | **$14,863** | 40.8 / 100 | **Immediate Exec Outreach** |
+| **Company 64** | Mid-Market | **$14,836** | 32.4 / 100 | **Immediate Exec Outreach** |
+| **Company 16** | Mid-Market | $14,138 | 27.0 / 100 | Technical Product Audit |
+| **Company 6** | Enterprise | $13,704 | 25.6 / 100 | Success Team Wellness Check |
+| **Company 92** | Mid-Market | $13,160 | 38.1 / 100 | Success Team Wellness Check |
 
 ---
 
 ### [ 05. BUSINESS IMPACT ]
-* **Visibility:** Transforms 3+ hours of manual data-pulling into a 2-second automated report.
-* **Proactivity:** Identifies "Silent Churn" risks 60-90 days before the renewal date.
-* **Scalability:** The logic is vendor-agnostic and can be deployed across Salesforce, HubSpot, or Snowflake.
+* **Visibility:** Instantly quantifies over **$300k in potential churn risk** that was previously hidden in departmental silos.
+* **Efficiency:** Transforms hours of manual cross-referencing between CRM and Usage logs into a 2-second automated report.
+* **Proactivity:** Flags accounts like **Company 64** ($14k+ MRR) for intervention based on declining engagement before a cancellation request is ever filed.
 
 ---
 **Status:** ✅ Functional / Documented  
