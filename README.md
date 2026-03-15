@@ -55,7 +55,7 @@ The final artifact. A ranked list of accounts sitting at the critical intersecti
 
 The engine surfaces accounts at the **critical intersection: high revenue + deteriorating health.**
 
-*Total Accounts Analyzed: 100 | Revenue at Risk Identified: **$308,121***
+For each run, the pipeline analyzes 100 synthetic accounts across SMB, Mid-Market, and Enterprise tiers and produces a ranked intervention list. The accounts below are representative examples from a sample run -- actual output varies based on the data.
 
 | Account | Tier | MRR | Health Score | Recommended Action |
 |---|---|---|---|---|
@@ -64,6 +64,8 @@ The engine surfaces accounts at the **critical intersection: high revenue + dete
 | **Crestview Solutions** | Mid-Market | $14,138 | 27.0 / 100 | Technical Product Audit |
 | **Harlow Logistics** | Enterprise | $13,704 | 25.6 / 100 | Success Team Wellness Check |
 | **Pinnacle Analytics** | Mid-Market | $13,160 | 38.1 / 100 | Success Team Wellness Check |
+
+The pipeline also generates three charts (see Section 05) showing the full portfolio health distribution, revenue at risk by tier, and engagement vs. health score across all accounts.
 
 ---
 
@@ -82,7 +84,7 @@ The engine surfaces accounts at the **critical intersection: high revenue + dete
 
 ## [ 06. BUSINESS IMPACT ]
 
-- **Visibility:** Instantly quantifies over **$300K in potential churn risk** previously hidden across three disconnected systems.
+- **Visibility:** Instantly quantifies over **$99K in potential churn risk** previously hidden across three disconnected systems.
 - **Speed:** Transforms hours of manual cross-referencing between CRM, Support, and Usage logs into an automated, repeatable pipeline.
 - **Proactivity:** Flags accounts like **Northgate Financial** ($14.8K MRR, health score 32.4) for intervention based on declining signals -- before a cancellation request is ever filed.
 - **Prioritization:** Gives CS and executive teams a clear, ranked list with recommended actions. No interpretation required.
