@@ -1,0 +1,55 @@
+account_id,company_name,tier,mrr,renewal_in_months,account_owner,tickets_last_90d,avg_resolution_hrs,sentiment_score,has_open_escalation,days_since_login,features_available,features_used,adoption_rate_pct,monthly_active_users,health_score,risk_level,recommended_action
+ACC-079,Pinecrest Technologies,SMB,2841.82,6,Tom Bergmann,24,17.3,44.9,False,88,9,1,11.1,44,18.1,Critical,Immediate CS Outreach
+ACC-094,Shoreline Advisory,Mid-Market,10597.58,1,James Okafor,14,66.3,42.0,False,85,17,2,11.8,16,18.7,Critical,Immediate CS Outreach
+ACC-100,Sapphire Systems,SMB,2449.69,7,Aisha Diallo,24,56.2,30.4,False,89,14,5,35.7,17,20.7,Critical,Immediate CS Outreach
+ACC-082,Valleyfield Analytics,Mid-Market,4362.57,8,James Okafor,18,19.5,58.2,False,75,19,2,10.5,38,27.6,Critical,Immediate CS Outreach
+ACC-078,Millstone Group,SMB,1466.84,10,Sarah Chen,15,28.6,55.0,False,81,10,3,30.0,37,29.9,Critical,Immediate CS Outreach
+ACC-091,Cloverleaf Systems,SMB,732.76,10,Tom Bergmann,13,67.8,63.7,False,77,14,4,28.6,49,33.8,Critical,Immediate CS Outreach
+ACC-035,Monarch Consulting,Enterprise,48001.9,6,Aisha Diallo,7,51.1,67.4,True,85,19,7,36.8,26,33.9,Critical,Immediate Executive Outreach
+ACC-077,Lakewood Systems,Mid-Market,11291.56,9,Aisha Diallo,19,46.9,44.0,False,61,8,2,25.0,3,33.9,Critical,Immediate CS Outreach
+ACC-015,Vantage Point AI,SMB,2083.51,2,Tom Bergmann,18,60.4,38.3,False,69,11,5,45.5,27,34.8,Critical,Immediate CS Outreach
+ACC-046,Dawnridge Networks,Mid-Market,3443.61,5,Sarah Chen,23,49.4,40.7,False,55,8,2,25.0,34,35.5,Critical,Immediate CS Outreach
+ACC-005,Pinnacle Analytics,SMB,2768.92,8,Aisha Diallo,22,9.1,66.0,False,62,8,1,12.5,34,36.3,Critical,Immediate CS Outreach
+ACC-036,Cypress Group,Mid-Market,6879.11,7,Tom Bergmann,9,18.7,78.2,False,65,18,1,5.6,29,36.5,Critical,Immediate CS Outreach
+ACC-017,Cobalt Dynamics,SMB,2509.18,6,James Okafor,4,60.5,62.7,False,66,12,3,25.0,6,37.3,Critical,Immediate CS Outreach
+ACC-039,Falconer Labs,Mid-Market,7364.19,6,Priya Mehta,8,19.0,80.0,False,73,15,3,20.0,40,37.9,Critical,Immediate CS Outreach
+ACC-053,Starboard Insights,Enterprise,20072.18,4,Aisha Diallo,4,57.9,72.6,False,67,12,3,25.0,47,39.8,Critical,Immediate Executive Outreach
+ACC-072,Pebble Creek Labs,SMB,541.47,5,Priya Mehta,24,5.1,54.1,True,89,10,8,80.0,40,41.1,At Risk,Technical Product Audit
+ACC-075,Sunridge Commerce,Mid-Market,10742.43,3,Aisha Diallo,16,24.8,67.6,False,89,10,7,70.0,39,42.1,At Risk,Success Team Wellness Check
+ACC-022,Arborview Networks,SMB,2740.23,4,James Okafor,7,11.4,80.8,False,63,16,3,18.8,45,42.2,At Risk,Success Team Wellness Check
+ACC-043,Veritas Platforms,SMB,1743.12,11,Tom Bergmann,17,55.5,45.1,False,46,13,4,30.8,39,42.5,At Risk,Success Team Wellness Check
+ACC-069,Oakdale Solutions,SMB,601.94,12,Priya Mehta,22,53.3,35.1,True,71,10,8,80.0,1,43.3,At Risk,Technical Product Audit
+ACC-083,Springbrook Advisory,SMB,2811.73,8,James Okafor,16,33.2,48.1,False,67,8,5,62.5,34,43.7,At Risk,Success Team Wellness Check
+ACC-045,Openfield Commerce,SMB,1212.1,2,Priya Mehta,10,53.8,75.7,False,51,15,2,13.3,35,44.3,At Risk,Success Team Wellness Check
+ACC-009,Clearwater Ventures,Mid-Market,5746.35,4,Tom Bergmann,23,5.0,59.3,False,65,15,8,53.3,38,45.2,At Risk,Success Team Wellness Check
+ACC-010,Summit Operations,Mid-Market,3924.68,3,Aisha Diallo,11,53.3,74.2,False,77,12,7,58.3,12,45.9,At Risk,Success Team Wellness Check
+ACC-034,Redwood Operations,Enterprise,26817.19,3,Tom Bergmann,16,27.8,66.5,True,67,18,10,55.6,36,47.1,At Risk,Technical Product Audit
+ACC-054,Lighthouse Partners,Enterprise,32131.36,3,Sarah Chen,8,70.4,46.5,False,75,8,7,87.5,20,47.2,At Risk,Success Team Wellness Check
+ACC-032,Forefront Logistics,SMB,1055.27,12,Tom Bergmann,2,51.3,80.1,True,54,8,2,25.0,43,47.8,At Risk,Technical Product Audit
+ACC-027,Latitude Systems,SMB,2545.04,8,Priya Mehta,11,63.5,50.3,False,35,14,4,28.6,26,48.3,At Risk,Success Team Wellness Check
+ACC-066,Birchwood Ventures,Mid-Market,13023.79,1,Aisha Diallo,4,71.7,64.2,False,73,14,10,71.4,9,48.6,At Risk,Success Team Wellness Check
+ACC-071,Sagebrush Networks,Mid-Market,11131.09,4,James Okafor,22,69.1,30.9,True,46,15,10,66.7,43,49.0,At Risk,Technical Product Audit
+ACC-044,Stormlight Advisory,Enterprise,25531.44,11,James Okafor,12,59.4,58.9,False,87,12,12,100.0,40,49.4,At Risk,Success Team Wellness Check
+ACC-055,Ironside Solutions,Mid-Market,14827.82,1,Tom Bergmann,23,40.5,46.3,False,44,14,7,50.0,19,49.5,At Risk,Success Team Wellness Check
+ACC-021,Nexus Platforms,Mid-Market,12689.47,1,Aisha Diallo,0,64.3,76.9,False,41,11,2,18.2,12,50.5,At Risk,Success Team Wellness Check
+ACC-052,Windfall Systems,Mid-Market,5875.5,3,James Okafor,9,32.0,80.6,False,46,9,2,22.2,36,50.6,At Risk,Success Team Wellness Check
+ACC-062,Rosewood Platforms,SMB,2080.76,12,Sarah Chen,16,6.4,61.3,False,26,13,2,15.4,9,51.6,At Risk,Success Team Wellness Check
+ACC-033,Elm Street Analytics,SMB,799.66,11,Tom Bergmann,22,35.2,48.2,False,32,18,7,38.9,1,52.1,At Risk,Success Team Wellness Check
+ACC-058,Clearpath Dynamics,SMB,2404.05,12,James Okafor,2,66.6,60.9,True,35,16,5,31.2,17,52.2,At Risk,Technical Product Audit
+ACC-042,Hillcrest Digital,Mid-Market,6022.14,8,James Okafor,20,53.6,58.3,False,30,11,3,27.3,49,52.5,At Risk,Success Team Wellness Check
+ACC-064,Riverstone Media,SMB,1839.44,5,Aisha Diallo,23,16.4,50.2,False,19,15,3,20.0,2,52.7,At Risk,Success Team Wellness Check
+ACC-030,Aldgate Partners,SMB,1776.87,1,Sarah Chen,18,43.0,47.3,True,56,9,7,77.8,46,52.9,At Risk,Technical Product Audit
+ACC-008,Ridgeline Software,Enterprise,41444.53,8,Sarah Chen,19,71.7,38.0,False,16,10,3,30.0,25,53.4,At Risk,Success Team Wellness Check
+ACC-002,Northgate Financial,Enterprise,37274.73,4,Priya Mehta,15,16.1,66.4,False,50,13,7,53.8,36,54.1,At Risk,Success Team Wellness Check
+ACC-011,Ironwood Consulting,SMB,1224.38,9,Tom Bergmann,17,39.8,56.0,False,52,16,11,68.8,23,54.6,At Risk,Success Team Wellness Check
+ACC-007,Beacon Systems,SMB,1525.96,6,James Okafor,16,70.2,37.6,False,24,14,7,50.0,37,55.7,At Risk,Success Team Wellness Check
+ACC-001,Meridian Technologies,SMB,578.57,8,James Okafor,3,40.3,81.2,False,31,11,2,18.2,42,56.2,At Risk,Success Team Wellness Check
+ACC-099,Riverbend Partners,SMB,2717.72,10,Aisha Diallo,11,30.2,70.5,False,20,14,2,14.3,21,56.6,At Risk,Success Team Wellness Check
+ACC-063,Foxgate Consulting,Mid-Market,10602.72,9,Aisha Diallo,6,12.8,92.1,False,68,19,12,63.2,26,56.7,At Risk,Success Team Wellness Check
+ACC-020,Fieldstone Advisory,SMB,1848.36,4,James Okafor,0,29.2,80.8,False,71,10,8,80.0,34,57.0,At Risk,Success Team Wellness Check
+ACC-076,Fairview Insights,Mid-Market,5093.22,2,Tom Bergmann,16,13.0,63.7,True,12,9,1,11.1,35,57.2,At Risk,Technical Product Audit
+ACC-018,Whitmore Group,Mid-Market,5239.65,3,Priya Mehta,11,31.3,62.5,False,6,17,1,5.9,27,57.9,At Risk,Success Team Wellness Check
+ACC-086,Fernhill Digital,SMB,2149.96,7,Sarah Chen,8,30.2,73.8,True,71,10,9,90.0,37,57.9,At Risk,Technical Product Audit
+ACC-061,Goldleaf Technologies,SMB,1419.46,3,James Okafor,17,50.4,53.7,False,42,13,9,69.2,34,58.4,At Risk,Success Team Wellness Check
+ACC-004,Harlow Logistics,Mid-Market,9103.34,1,Sarah Chen,15,56.5,45.0,True,22,16,8,50.0,38,58.8,At Risk,Technical Product Audit
+ACC-080,Hillside Platforms,SMB,843.8,10,Aisha Diallo,21,19.9,52.1,False,59,9,9,100.0,44,59.7,At Risk,Success Team Wellness Check
