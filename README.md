@@ -114,4 +114,4 @@ No local setup required -- runs directly in [Google Colab](https://colab.researc
 
 **Status:** Functional / Documented
 **Stack:** Python, Pandas, NumPy, Matplotlib
-**Author:** Mohamed Bah | [LinkedIn](https://www.linkedin.com/in/bah-007700/) | [GitHub](https://github.com/Moezusb)
+**Author:** Mohamed Bah | [LinkedIn](https://www.linkedin.com/in/bah-007700/)
