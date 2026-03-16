@@ -1,4 +1,4 @@
-# 🌲 PROJECT SENTINEL: Revenue Bridge Analytics
+# Revenue Bridge Analytics
 
 **Strategic Risk Framework: Cross-Functional Data Integration for Churn Mitigation**
 
